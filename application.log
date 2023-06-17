@@ -1,0 +1,7 @@
+2023-2023-06 11:22 [WARN][restartedMain][c.z.h.u.DriverDataSource:70] Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2023-2023-06 11:22 [WARN][restartedMain][o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:231] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-2023-06 11:25 [WARN][http-nio-8082-exec-2][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver:207] Resolved [com.addressbookapplication.exception.AddressBookException: Address Book with id 5 not found!]
+2023-2023-06 11:28 [WARN][http-nio-8082-exec-3][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver:207] Resolved [com.addressbookapplication.exception.AddressBookException: Address Book with id 6 not found!]
+2023-2023-06 11:28 [WARN][http-nio-8082-exec-10][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver:207] Resolved [com.addressbookapplication.exception.AddressBookException: Address Book with id 2 not found!]
+2023-2023-06 11:29 [WARN][http-nio-8082-exec-5][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver:207] Resolved [com.addressbookapplication.exception.AddressBookException: Address Book with city mi not found!]
+2023-2023-06 11:30 [WARN][http-nio-8082-exec-1][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver:207] Resolved [com.addressbookapplication.exception.AddressBookException: Address Book with state Maharastrtas not found!]
